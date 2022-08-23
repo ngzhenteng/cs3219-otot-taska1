@@ -1,0 +1,24 @@
+{
+  "name": "cs3219_otot_taska1",
+  "version": "1.0.0",
+  "description": "CS3219 OTOT Task A1 is split into 3 parts. Read up on reverse proxy [here](https://www.upguard.com/blog/reverse-proxy-vs-load-balancer).",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcustw/ay2022-23_cs3219_otot_taska1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcustw/ay2022-23_cs3219_otot_taska1/issues"
+  },
+  "homepage": "https://github.com/marcustw/ay2022-23_cs3219_otot_taska1#readme"
+}
