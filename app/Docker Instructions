@@ -1,3 +1,4 @@
 cd app
 docker build . -t <image tag>
-docker run -p 8080:8080 <image tag>
+# in this case, i set "expresswebapp" as the <image tag>, you may run "docker images" to find the image tag
+docker run -p 3000:8080 <image tag>
