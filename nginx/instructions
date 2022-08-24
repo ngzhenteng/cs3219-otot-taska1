@@ -1,0 +1,3 @@
+docker compose up --build
+# You may access the webpage at the folllowing URL
+http://localhost
